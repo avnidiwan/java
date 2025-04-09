@@ -1,6 +1,5 @@
 
-
-public class basics {
+public class day1basics {
     public static void main(String[] args) {
       //wap to print hello world
       System.out.println("Hello World");
@@ -62,8 +61,5 @@ public class basics {
       int a1=10, a2=20;
       float b1=10.11f, b2=20.22f;
       System.out.println("sum of values is "+(a1+a2+b1+b2));
-
-      //System.out.println("\n");
 }
-
 }
