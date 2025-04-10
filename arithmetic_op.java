@@ -1,4 +1,4 @@
-public class day2basicques {
+public class arithmetic_op {
     public static void main(String[] args) {
         //addition, subtraction, multiplication, division of two numbers
         int a1=50, a2=80;
