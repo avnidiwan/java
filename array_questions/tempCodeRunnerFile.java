@@ -1,5 +1,1 @@
- // else{
-                //     if(arr2[j]==000 || arr1[i]==000){
-                //         continue;
-                //     }
-                // }
+arr1[i]=arr1[i];
