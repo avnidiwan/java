@@ -1,1 +1,0 @@
-countVow/2
