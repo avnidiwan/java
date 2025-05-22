@@ -9,6 +9,6 @@ public class digitCount {
         System.out.println(count);
     }
     public static void main(String[] args){
-        display(12345);
+        display(14);
     }
 }
