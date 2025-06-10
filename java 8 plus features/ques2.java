@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 
 public class ques2 {
     public static void main(String[] args){
-        List<Integer> list= Arrays.asList(3,65,76,37,3,85,26,96,29,7,30,16,87,91,90);
+        List<Integer> list= Arrays.asList(3,65,76,37,3);
         int max=list.stream().reduce(0,(a,b)->a>b?a:b);
         System.out.println("maximum value: "+max);
         List<Integer> newList=list.stream()

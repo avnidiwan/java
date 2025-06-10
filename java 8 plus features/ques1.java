@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 public class ques1{
     public static void main(String[] args){
-        List<Integer> list=Arrays.asList(0,2,3,4,5,12,-54,73,27,93,15,44,05,-98,13,64,-24);
+        List<Integer> list=Arrays.asList(0,2,3,4,5);
         List<Integer> greater2 = list.stream()
                                 .filter(n -> n>=2)
                                 .collect(Collectors.toList());
