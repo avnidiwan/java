@@ -1,4 +1,3 @@
-import java.util.List;
 
 public class Arrays {
     public static void main(String[] args) {
@@ -8,18 +7,4 @@ public class Arrays {
         }
     }
 
-    public static List<String> asList(String i, String j, String k, String l, String m) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'asList'");
-    }
-
-    public static List<String> asList(String string, String string2, String string3) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'asList'");
-    }
-
-    public static List<Integer> asList(int i, int j, int k, int l, int m) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'asList'");
-    }
 }

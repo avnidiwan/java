@@ -107,11 +107,7 @@ public class project {
             case 2: System.out.println("Checking balance...");break;
             case 3: {
                 System.out.println("Depositing money...");
-                account d=new account();
-                 // Placeholder for deposit amount
-                System.out.print("Enter amount to deposit: ");
-                double depositAmount = obj.nextDouble();
-                d.deposit(depositAmount);
+              
                 break;
             }
             case 4: System.out.println("Withdrawing money...");break;
